@@ -1,0 +1,8 @@
+name: aGlow
+version: '${project.version}'
+main: org.bitpixls.aglow.aGlow
+api-version: 1.18
+description: Simple Glow plugin to minecraft!
+commands:
+  glow:
+  aglow:
